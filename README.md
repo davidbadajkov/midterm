@@ -1,1 +1,1 @@
-ADD README CONTENT
+Solution to the midterm exam of data preprocessing in Python.
